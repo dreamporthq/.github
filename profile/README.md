@@ -14,8 +14,8 @@ DreamPort is designed to make Apple Watch sleep stage data easier to use with OS
 
 ## Public Repositories
 
-- [dreamport](https://github.com/dreamporthd/dreamport) — Overview, public information, and project hub
-- [dreamport-desktop](https://github.com/dreamporthd/dreamport-desktop) — Desktop app repository
+- [dreamport](https://github.com/dreamporthq/dreamport) — Overview, public information, and project hub
+- [dreamport-desktop](https://github.com/dreamporthq/dreamport-desktop) — Desktop app repository
 
 ## Availability
 
